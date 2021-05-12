@@ -1,0 +1,8 @@
+{
+  "name": "Peliculas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "57a1d327"
+}
